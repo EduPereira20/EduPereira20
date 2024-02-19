@@ -7,7 +7,7 @@
 
 ![EduPereira20 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduPereira20&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que já usei e uso no meu dia
 
 <div style"display: inline_block"><br/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
