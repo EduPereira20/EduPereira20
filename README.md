@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.pereiradv?igsh=anFyMnJ0OWdoMGg3)
 [![instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561981009639?text=Oi%2C%20tudo%20bem%3F)
 
-![EduPereira20 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduPereira20&show_icons=true&theme=dracula)
+![EduPereira20 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereira20&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## Tecnologias que já usei e uso no meu dia a dia
 
